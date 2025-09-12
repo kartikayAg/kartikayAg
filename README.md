@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="Data-analyst.jpg" alt="Data Analyst" width="800"/>
-</p>
 <h1 align="center">Hi 👋, I'm Kartikay Agarwal</h1>
 <h3 align="center">Hi Folks, I'm Curious coder exploring AI + Big Data 🌐.</h3>
 
