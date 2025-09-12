@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartikay Agarwal</h1>
+![Data Analyst](Data%20Analyst.jpg)\r\n<h1 align="center">Hi 👋, I'm Kartikay Agarwal</h1>
 <h3 align="center">Hi Folks, I'm Curious coder exploring AI + Big Data 🌐.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikayag&label=Profile%20views&color=0e75b6&style=flat" alt="kartikayag" /> </p>
